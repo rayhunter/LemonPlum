@@ -1,0 +1,14 @@
+{ 
+  "name": "LemonPlum", 
+  "version": "1.0.0", 
+  "description": "LemonPlum Home", 
+  "scripts": { 
+    "lite": "lite-server --port 7000", 
+    "start": "npm run lite" 
+  }, 
+  "author": "Ray Hunter", 
+  "license": "ISC", 
+  "devDependencies": { 
+    "lite-server": "^1.3.1" 
+  } 
+}
